@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Data Preprocessing}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Overview}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Data Correlation Analysis}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Feature Selection}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Data Splitting}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Data Balancing}{8}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}SMOTE}{9}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Random Under-sampling}{11}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}K-Nearest Neighbors (KNN)}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Overview}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Evaluation Metrics}{13}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Confusion Matrix}{14}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Softmax}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Overview}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Evaluation Metrics}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Confusion Matrix}{20}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Neural Networks}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Overview}{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Evaluation Metrics}{27}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Confusion Matrix}{28}{section.5.3}%
+\contentsline {section}{\numberline {5.4}TensorBoard Visualizations}{32}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Evaluation Metrics}{39}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Comparison Strategy}{39}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Baseline Comparison}{39}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Balanced Data Comparison (Shared Settings)}{40}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}SMOTE Comparison}{40}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Under-sampling Comparison}{40}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Best Configurations by Objective}{41}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Best Evaluation Metric for Model Selection}{41}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Discussion}{42}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Best Models}{42}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Why These Were the Best Models}{42}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Comparison Between the Three Best Models}{43}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Imbalance Handling Effectiveness}{44}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Insights and Observations}{45}{section.7.3}%
